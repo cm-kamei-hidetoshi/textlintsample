@@ -1743,7 +1743,7 @@ textlint-rule-prh@^3.1.1:
     textlint-rule-helper "^2.0.0"
     untildify "^3.0.2"
 
-textlint-rule-prh@^5.0.0:
+textlint-rule-prh@^5.0.0, textlint-rule-prh@^5.2.1:
   version "5.2.1"
   resolved "https://registry.yarnpkg.com/textlint-rule-prh/-/textlint-rule-prh-5.2.1.tgz#dcbb3ee674a9c63e7ba71f73b31d675571b874fc"
   integrity sha512-RlVQRok7GnmuuCrNRSYbFqcpzJkH1g6OrVVrGE+S9drT1TzgsSSM8NkAQlP6kFnQ7fN4V7g4j6JBg0N3ArBpCg==
